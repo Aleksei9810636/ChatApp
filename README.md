@@ -6,5 +6,5 @@ Ones can use the next code to launch app
 ```
 chmod +x Client.me
 chmod +x run.sh
-sh run.sh
+sh run.sh Filename.cpp
 ```
